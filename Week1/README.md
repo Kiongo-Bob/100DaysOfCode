@@ -1,6 +1,5 @@
 This week's highlight was the  hungman game project.
 
-I strognly recommend you play the game first if you've 
-never heard of it.
+I stronGly recommend you play the game first to familiarise yourself with it.
 
-[Link]: https://hangmanwordgame.com/?fca=1&success=0#/ 
+[**Humgman game**] (https://hangmanwordgame.com/?fca=1&success=0#/)
