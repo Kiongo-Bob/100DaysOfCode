@@ -1,6 +1,6 @@
 import random as rd
 
-geussed_int = rd.randint(1,100)
+geussed_int = rd.randint(1,101)
 
 print(geussed_int)
 
